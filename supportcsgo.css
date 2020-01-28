@@ -1,0 +1,35 @@
+img{
+	width: 70%;
+	}
+	p{
+	text-align: justify;
+	}
+	h1{
+	text-align: center;
+	}
+	body{
+	background-color: #808080; 
+	}
+	h2{
+	color:  #800000;
+	}
+	ol{
+		text-decoration: underline;
+	}
+	a{
+	font-size: 45px;
+	text-decoration: none;
+	color: #00008B;
+	}
+	.ow{
+		text-align: right;
+		width: 50%;
+		float: right;
+	}
+	body{
+		font-size: 26;
+	}
+	.kol{
+		width: 40%;
+		text-align: justify;
+	}
